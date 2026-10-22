@@ -65,18 +65,25 @@ flutter run
 
 | Home | Quiz | Hasil |
 |---|---|---|
-| ![Home](docs/screenshots/home.png) | ![Quiz](docs/screenshots/quiz.png) | ![Hasil](docs/screenshots/result.png) |
+| ![Home](<img width="1080" height="2400" alt="home" src="https://github.com/user-attachments/assets/000fe297-696c-46b9-96ca-9088d4588c81" />
+) | ![Quiz](<img width="1080" height="2400" alt="kuis" src="https://github.com/user-attachments/assets/47298837-d73a-4b4b-8ba8-205ff1596519" />
+) | ![Hasil](<img width="1080" height="2400" alt="hasil" src="https://github.com/user-attachments/assets/ba127f22-86cb-4b58-a84d-30cfd27a1860" />
+) |
 
 | Review | Riwayat | Papan Skor |
 |---|---|---|
-| ![Review](docs/screenshots/review.png) | ![Riwayat](docs/screenshots/history.png) | ![Papan Skor](docs/screenshots/leaderboard.png) |
+| ![Review](<img width="1080" height="2400" alt="pembahasan" src="https://github.com/user-attachments/assets/2b3ef41c-0195-4609-8d24-b2cb803f4b2a" />
+) | ![Riwayat](<img width="1080" height="2400" alt="riwayat" src="https://github.com/user-attachments/assets/6a3334ed-851e-461f-be24-3050bfe913a4" />
+) | ![Papan Skor](<img width="1080" height="2400" alt="skor" src="https://github.com/user-attachments/assets/71a472a7-6d0a-4da4-bcb5-22435d9f28b3" />
+) |
 
 | Dark Mode |
 |---|
-| ![Dark Mode](docs/screenshots/dark_mode.png) |
+| ![Dark Mode](<img width="1080" height="2400" alt="gelap" src="https://github.com/user-attachments/assets/5674e091-6271-4bc3-8761-b1e8ac40e6dc" />
+) |
 
 ### Link Mockup / Prototype
-[Kuisin Mockup (prototype interaktif)](https://claude.ai/artifact/3Kv5RrqxyqU9pU52DCCDkF)
+[Kuisin Mockup (prototype interaktif)](https://www.figma.com/proto/48zfOIlVC3GRp4sKa3CnCU/Kuisin?node-id=16-280&t=htNlvBMaanKePSiE-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A201)
 
 ### Link Video Presentasi
-_[Link Google Drive]_
+_[https://drive.google.com/drive/folders/1nr3HOVqD66lPRRfyeAVt-savIZltk7hb?usp=sharing]_
